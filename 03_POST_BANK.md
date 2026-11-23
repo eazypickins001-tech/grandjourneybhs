@@ -13,8 +13,49 @@ node tools/validate-posts.js 03_POST_BANK.md
 Never split a post across files. The post is the single production record.
 
 **`Length:` is the content runtime only.** Every published post adds the
-project's intro (≤1.5 s) and outro (1.5–3 s) on top — see
-`_SHARED/intro-outro.md`.
+GJBHS intro (1.2 s) and outro (2.4 s) on top — see `_SHARED/intro-outro.md`.
+
+---
+
+## Sources & fact notes
+
+> Every claim that carries a hook has a source line in the published
+> description. The notes below are the working references for this bank.
+> Verify every service, coverage and legal claim with the GJBHS front office
+> or clinical lead before publishing.
+
+| Post | Topic | Source line for the description |
+|---|---|---|
+| 01 | First therapy hour walk-through | GJBHS intake process; confirm steps with the front office |
+| 02 | PRP in the home | GJBHS PRP service description; Maryland Medicaid PRP documentation rules, verify |
+| 03 | Maryland Medicaid | Maryland Medicaid HMO plan verification; never publish a blanket acceptance claim |
+| 04 | PRP at home | Same PRP source as post 02 |
+| 05 | Medication and identity | SAMHSA and NIMH patient education on medication management; GJBHS prescriber workflow |
+| 06 | Talking to a teen | SAMHSA family and caregiver communication guidance; clinical lead review |
+| 07 | First appointment checklist | GJBHS intake checklist; confirm with the front office |
+| 08 | Levels of care | SAMHSA levels of care definitions for outpatient, IOP and PHP |
+| 09 | Who answers the phone | GJBHS phone and intake process; confirm hours with the front office |
+| 10 | Therapy before crisis | SAMHSA and NIMH guidance on when to seek help |
+| 11 | The pause after I'm fine | General supportive-conversation guidance; 988 Lifeline for crisis |
+| 12 | Psychiatric evaluation | GJBHS evaluation process; clinical lead review |
+| 13 | Referral coordination | GJBHS referral and consent policy; confirm with the front office |
+| 14 | Faith and treatment | SAMHSA guidance on culturally responsive, faith-sensitive care |
+| 15 | Five things worth talking about | SAMHSA and NIMH general warning-sign guidance; explicitly non-diagnostic |
+| 16 | Medication check-in | GJBHS medication management workflow; clinical lead review |
+| 17 | Why they stay | GJBHS staffing description; verify roles and openings with HR |
+| 18 | After you hang up | GJBHS intake, waitlist and callback process; confirm with the front office |
+| 19 | Positivity is not a plan | SAMHSA psychoeducation on evidence-based support |
+| 20 | Boundaries for caregivers | SAMHSA family and caregiver resources |
+| 21 | Trauma-informed care | SAMHSA concept of trauma and guidance for a trauma-informed approach, 2014 |
+| 22 | Intake paperwork | GJBHS intake forms; confirm requirements with the front office |
+| 23 | The cost of stigma | SAMHSA and NAMI stigma resources |
+| 24 | Recovery timeline | SAMHSA working definition of recovery; no outcome promises |
+| 25 | After an overdose | SAMHSA Opioid Overdose Prevention Toolkit; 988; verify any legal claim with counsel |
+| 26 | Telehealth or in person | GJBHS telehealth policy; Maryland Medicaid telehealth coverage, verify |
+| 27 | Substance use as a health condition | NIDA and the US Surgeon General's report on addiction as a brain disorder |
+| 28 | Group therapy | GJBHS group program description and confidentiality policy; clinical lead review |
+| 29 | One question before you start | SAMHSA shared decision-making guidance |
+| 30 | Twenty seconds to land | SAMHSA grounding techniques; 988 for crisis |
 
 ---
 
@@ -36,6 +77,67 @@ project's intro (≤1.5 s) and outro (1.5–3 s) on top — see
 **Hook:** "Nobody tells you what the first hour is actually like."
 **Length:** 30s
 **Model:** Veo
+
+**Copy pack:**
+
+```text
+POST 01 — The First Sixty Minutes | Veo | 5 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: POV to reveal, 9:16 vertical. Camera starts as first-person view at a modest clinic doorway, then pulls back slowly and lands locked camera, no zoom pan tilt or rotation.
+SUBJECT: a warm quiet waiting room — two wooden chairs, a low table, a single plant, a clipboard.
+EFFECT: the door swings open toward the viewer and warm light spills across the floor.
+ENVIRONMENT & LIGHT: late-afternoon window light from the left, soft shadows, worn floorboards.
+STYLE & PALETTE: photoreal documentary still-life, warm white #FFFFF6 and deep plum #360C42 palette, mauve #816E7C accents.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, hospital sterility, blue tint.
+OVERLAY: FIRST SESSION · STEP 01
+NARRATION: Nobody tells you what the first hour is actually like.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: Locked camera, no zoom pan tilt or rotation, 9:16 vertical.
+SUBJECT: a front-desk counter from waist height — a keyboard, a small bell, a folded intake folder, an empty chair behind it.
+EFFECT: the folder lifts slightly as if just set down, then settles; a pen rolls a few centimetres and stops.
+ENVIRONMENT & LIGHT: warm overhead light, plum accent wall, warm white surfaces.
+STYLE & PALETTE: photoreal documentary still-life, palette warm white #FFFFF6, plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, logo, watermark, camera drift, fluorescent cold light.
+OVERLAY: CHECK IN
+NARRATION: It starts with your name at the front desk — and nothing else.
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: Locked camera, no zoom pan tilt or rotation, 9:16 vertical.
+SUBJECT: a narrow hallway with two doors, one ajar with warm light behind it.
+EFFECT: the ajar door opens another ten degrees on its own and the light widens across the floor.
+ENVIRONMENT & LIGHT: soft shadows, warm white walls, plum door frames, dust in the light beam.
+STYLE & PALETTE: photoreal, quiet and cinematic, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C accent.
+NEGATIVE: people, faces, figures, text, letters, watermark, camera drift, horror lighting, blue grade.
+OVERLAY: THE WALK
+NARRATION: Then a door opens into a room that does not look like a hospital.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: Locked camera, no zoom pan tilt or rotation, 9:16 vertical.
+SUBJECT: a small therapy room — two armchairs at a slight angle, a side table with a box of tissues, a window with sheer curtains.
+EFFECT: the curtains breathe inward once, then settle; dust drifts slowly through the light.
+ENVIRONMENT & LIGHT: warm natural light from the window, soft shadows, calm and uncluttered.
+STYLE & PALETTE: photoreal documentary still-life, palette warm white #FFFFF6, plum #360C42, mauve #816E7C, one small green #1FDF67 leaf.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, clinical equipment, cold blue light.
+OVERLAY: THE ROOM
+NARRATION: Someone explains what happens next, and you decide how fast.
+
+CLIP 5 | 0:24–0:30
+DURATION: 6s
+CAMERA: Locked camera, no zoom pan tilt or rotation, 9:16 vertical.
+SUBJECT: the same two armchairs from a slightly wider angle, now with a folded blanket on one arm.
+EFFECT: a mote of light moves across the wall as if a cloud passed, then steadies.
+ENVIRONMENT & LIGHT: warm afternoon light, warm white walls, plum floor shadow, calm.
+STYLE & PALETTE: photoreal documentary still-life, palette warm white #FFFFF6, plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, melodrama, blue tint.
+OVERLAY: STEP 01 DONE
+NARRATION: That is the whole first step. You do not have to know what to say.
+```
 
 **Clips:**
 
@@ -73,6 +175,78 @@ Educational only — not medical advice or a diagnosis. If you are in crisis, ca
 **Hook:** "The hardest part is not the diagnosis. It is the chair nobody sits in."
 **Length:** 48s
 **Model:** Veo
+
+**Copy pack:**
+
+```text
+POST 02 — The Empty Chair | Veo | 6 clips
+
+CLIP 1 | 0:00–0:08
+DURATION: 8s
+CAMERA: Paper-collage still-life, 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a single wooden chair cut out with a thin uneven white paper border, centred in a warm white field, a folded grey coat resting on its seat.
+EFFECT: the coat's fibres loosen and lift into drifting paper flakes that rise upward while the chair stays still.
+ENVIRONMENT & LIGHT: flat warm white #FFFFF6 paper background with photocopy grain, soft plum #360C42 shadow under the chair.
+STYLE & PALETTE: mixed-media paper collage, analog zine, handmade edges.
+NEGATIVE: people, faces, hands, text, letters, watermark, glossy 3D, neon, camera drift, rain imagery.
+OVERLAY: FOR THE ONES WHO WAIT
+NARRATION: The hardest part is not the diagnosis. It is the chair nobody sits in.
+
+CLIP 2 | 0:08–0:16
+DURATION: 8s
+CAMERA: Paper-collage, 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a landline phone and a notepad on a kitchen table, both paper cutouts with white borders.
+EFFECT: the phone cord lifts and coils slowly upward like a vine, then settles.
+ENVIRONMENT & LIGHT: warm white paper field, plum shadow, mauve #816E7C accents, photocopy grain.
+STYLE & PALETTE: mixed-media paper collage, analog zine.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, glossy 3D, neon.
+OVERLAY: THE CALL
+NARRATION: You make the call. You offer the ride. You leave the light on.
+
+CLIP 3 | 0:16–0:24
+DURATION: 8s
+CAMERA: Paper-collage, 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: two chairs facing each other, one occupied by a coat, the other empty.
+EFFECT: the empty chair's paper surface ripples once, then flattens; a loose page slides off and out of frame.
+ENVIRONMENT & LIGHT: warm white #FFFFF6 field, plum #360C42 shadows, mauve accents, paper fibres catching light.
+STYLE & PALETTE: mixed-media paper collage, analog zine, handmade.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, glossy 3D, melodrama.
+OVERLAY: THE PAUSE
+NARRATION: They say they are fine. You hear the pause before they say it.
+
+CLIP 4 | 0:24–0:32
+DURATION: 8s
+CAMERA: Paper-collage, 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a grey coat hanging on a paper hook beside a closed paper door.
+EFFECT: the coat sways once and settles while the door stays closed.
+ENVIRONMENT & LIGHT: warm white paper field, deep plum #360C42 door, mauve #816E7C floor line, photocopy grain.
+STYLE & PALETTE: mixed-media paper collage, analog zine.
+NEGATIVE: people, faces, hands, realistic figure, text, letters, watermark, camera drift, glossy 3D, horror lighting.
+OVERLAY: NOT YOUR JOB
+NARRATION: And you start to believe it is your job to carry them through the door.
+
+CLIP 5 | 0:32–0:40
+DURATION: 8s
+CAMERA: Paper-collage, 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a closed paper door, now ajar with warm light spilling as a paper strip across the floor.
+EFFECT: the light strip widens and retracts gently, like breathing, while the door holds.
+ENVIRONMENT & LIGHT: warm white #FFFFF6 field, deep plum #360C42 door, mauve #816E7C accents, paper fibres.
+STYLE & PALETTE: mixed-media paper collage, analog zine, handmade.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, glossy 3D, horror lighting.
+OVERLAY: KEEP IT OPEN
+NARRATION: It is not. You cannot walk someone through a door they will not walk through.
+
+CLIP 6 | 0:40–0:48
+DURATION: 8s
+CAMERA: Paper-collage, 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a small paper cup of tea on a windowsill, steam made of torn tissue paper.
+EFFECT: the tissue steam rises and curls once, then dissolves into loose flakes that drift off frame.
+ENVIRONMENT & LIGHT: warm white field, plum window frame, mauve #816E7C light, a tiny green #1FDF67 paper leaf on the sill.
+STYLE & PALETTE: mixed-media paper collage, analog zine, handmade.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, glossy 3D, neon.
+OVERLAY: YOU MATTER TOO
+NARRATION: You can keep it open — and you can still take care of you. Call 833-888-0805.
+```
 
 **Clips:**
 
@@ -112,6 +286,67 @@ Educational only — not medical advice or a diagnosis. If you are in crisis, ca
 **Length:** 30s
 **Model:** Veo
 
+**Copy pack:**
+
+```text
+POST 03 — Does Medicaid Cover This? | Veo | 5 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: Locked camera, no zoom pan tilt or rotation, 9:16 vertical.
+SUBJECT: a wall of blank paper sign panels in a grid, warm white #FFFFF6 with plum #360C42 seams, floating slightly off the wall.
+EFFECT: the panels settle into perfect alignment one row at a time, left to right, then hold still.
+ENVIRONMENT & LIGHT: even warm light, soft plum shadows, no reflections.
+STYLE & PALETTE: minimalist paper-and-plum graphic still-life, editorial.
+NEGATIVE: letters, words, numbers, text, signage content, people, hands, watermark, camera drift, neon, glossy 3D.
+OVERLAY: MARYLAND MEDICAID
+NARRATION: If you have Maryland Medicaid, you can stop guessing.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: Locked camera, no zoom pan tilt or rotation, 9:16 vertical.
+SUBJECT: a stack of blank paper forms on a plum desk, one sheet hovering above the stack.
+EFFECT: the hovering sheet slides down and lands square on the stack, edges aligned.
+ENVIRONMENT & LIGHT: warm white paper, mauve #816E7C paperclip, soft directional light from the left.
+STYLE & PALETTE: minimalist editorial still-life, warm white #FFFFF6 and deep plum #360C42.
+NEGATIVE: letters, words, numbers, handwriting, text, people, hands, watermark, camera drift, neon, glossy 3D.
+OVERLAY: ONE CALL
+NARRATION: One call tells you whether your plan is accepted before you come in.
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: Locked camera, no zoom pan tilt or rotation, 9:16 vertical.
+SUBJECT: two blank cards standing upright side by side in a warm white field, one plum #360C42 and one warm white #FFFFF6, casting soft shadows.
+EFFECT: the two cards slide together until they touch, then hold, perfectly level.
+ENVIRONMENT & LIGHT: flat warm light, mauve #816E7C shadow line under the cards.
+STYLE & PALETTE: minimalist paper graphic still-life, editorial.
+NEGATIVE: letters, words, numbers, text, illustrations, people, hands, watermark, camera drift, neon, glossy 3D.
+OVERLAY: CARD + ID
+NARRATION: Bring two things: your Medicaid card and your photo ID.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: Locked camera, no zoom pan tilt or rotation, 9:16 vertical.
+SUBJECT: a blank placard on an easel in an empty warm room, plum frame, warm white face.
+EFFECT: the placard rotates a few degrees toward the viewer and stops, catching the light.
+ENVIRONMENT & LIGHT: soft window light from the right, warm white walls, plum floor shadow.
+STYLE & PALETTE: minimalist editorial still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: letters, words, numbers, text, people, faces, hands, watermark, camera drift, neon, glossy 3D.
+OVERLAY: REFERRAL? ASK US
+NARRATION: If your plan needs a referral, ask us exactly what to request.
+
+CLIP 5 | 0:24–0:30
+DURATION: 6s
+CAMERA: Locked camera, no zoom pan tilt or rotation, 9:16 vertical.
+SUBJECT: a smartphone lying face-up on a warm white table beside a blank paper card, both slightly angled, plum accents.
+EFFECT: the phone screen glows softly and brightens once, then settles; the blank card lifts a millimetre and rests.
+ENVIRONMENT & LIGHT: warm overhead light, soft shadows, mauve #816E7C card edge, tiny green #1FDF67 indicator glow.
+STYLE & PALETTE: minimalist editorial still-life, warm white #FFFFF6 and deep plum #360C42.
+NEGATIVE: letters, words, numbers, app icons, text, people, hands, watermark, camera drift, neon, glossy 3D.
+OVERLAY: 833-888-0805
+NARRATION: You do not have to figure out the paperwork alone. Call 833-888-0805.
+```
+
 **Clips:**
 
 | # | Time | Dur | Visual | Overlay | Narration |
@@ -149,6 +384,67 @@ Educational only — not medical advice. If you are in crisis, call or text 988.
 **Length:** 30s
 **Model:** Veo
 
+**Copy pack:**
+
+```text
+POST 04 — PRP Comes To You | Veo | 5 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a free-standing wooden door in the middle of a warm living room, slightly ajar with light behind it.
+EFFECT: the door swings open toward the viewer and reveals a kitchen table beyond it.
+ENVIRONMENT & LIGHT: late-afternoon light, plum shadows, dust in the beam.
+STYLE & PALETTE: photoreal, quiet and cinematic, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, horror lighting, blue tint.
+OVERLAY: PRP · IN YOUR HOME
+NARRATION: The treatment room might be your own kitchen table.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a kitchen table with two chairs, a kettle, and a blank folder.
+EFFECT: steam rises from the kettle once, curls, then settles.
+ENVIRONMENT & LIGHT: morning light from a window, warm white walls, plum chair shadows.
+STYLE & PALETTE: photoreal documentary still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, clutter, blue tint.
+OVERLAY: WHAT IT IS
+NARRATION: PRP is psychiatric rehabilitation — one-on-one support in your home or community.
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a grocery bag and a paper planner on a counter, a pen resting beside them.
+EFFECT: the planner's pages riffle once as if a draft passed, then settle flat.
+ENVIRONMENT & LIGHT: warm overhead light, mauve accents, soft plum shadows.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, one green #1FDF67 sticky tab.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, neon, glossy 3D.
+OVERLAY: PRACTICE
+NARRATION: It is not a lecture. It is practice: routines, appointments, groceries, a plan you can keep.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a doorway from inside a home, a coat on a hook beside it, warm light on the floor.
+EFFECT: the light on the floor lengthens slowly, then holds.
+ENVIRONMENT & LIGHT: soft shadows, worn floorboards, plum door frame.
+STYLE & PALETTE: photoreal, quiet and cinematic, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, melancholy, blue grade.
+OVERLAY: YOUR SPACE
+NARRATION: Your clinician meets you where the hard part actually happens.
+
+CLIP 5 | 0:24–0:30
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the same kitchen table from a wider angle, two chairs, the folder now closed and centred.
+EFFECT: a mote of light crosses the wall as if a cloud passed, then steadies.
+ENVIRONMENT & LIGHT: warm afternoon light, calm and uncluttered.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, melodrama, neon.
+OVERLAY: CARE THAT FITS
+NARRATION: That is the point. Care that fits your real life.
+```
+
 **Clips:**
 
 | # | Time | Dur | Visual | Overlay | Narration |
@@ -185,6 +481,78 @@ Educational only — not medical advice or a diagnosis. If you are in crisis, ca
 **Hook:** "You are not a different person on medication. You are a person without the fog."
 **Length:** 48s
 **Model:** Veo
+
+**Copy pack:**
+
+```text
+POST 05 — The Mirror Argument | Veo | 6 clips
+
+CLIP 1 | 0:00–0:08
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a tall mirror in a warm room reflecting a lamp, a chair and a window.
+EFFECT: the reflection lags a half-second behind the room as the light shifts, then syncs.
+ENVIRONMENT & LIGHT: late light, plum wall, warm white floor.
+STYLE & PALETTE: photoreal, quiet and cinematic, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, silhouettes, text, letters, watermark, camera drift, horror mirror, cracked glass, blue tint.
+OVERLAY: MYTH: MEDS ERASE YOU
+NARRATION: You are not a different person on medication. You are a person without the fog.
+
+CLIP 2 | 0:08–0:16
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the same mirror, now reflecting only an empty chair.
+EFFECT: the glass surface ripples once like water and settles, the image sharpening.
+ENVIRONMENT & LIGHT: soft warm light, plum shadows, dust in the air.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, jump scare, distortion left on screen.
+OVERLAY: THE REAL FEAR
+NARRATION: The fear is real: that the sharp edges that make you you will be sanded off.
+
+CLIP 3 | 0:16–0:24
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a closed weekly pill organizer on a shelf beside a small notebook and a lamp.
+EFFECT: the lamp brightens one step, then holds; a page of the notebook lifts and falls.
+ENVIRONMENT & LIGHT: warm side light, mauve accents, soft plum shadow.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, pills spilling, text, letters, watermark, camera drift, neon, glossy 3D.
+OVERLAY: LOW AND SLOW
+NARRATION: Medication management starts low and slow, and you are the one reporting what changes.
+
+CLIP 4 | 0:24–0:32
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the notebook open under the lamp, a pen resting in the gutter, a glass of water.
+EFFECT: the water surface trembles once and stills.
+ENVIRONMENT & LIGHT: warm pool of light, plum desk, calm.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, handwriting, watermark, camera drift, neon.
+OVERLAY: THE GOAL
+NARRATION: The goal is not a new personality. It is sleep, focus, and a steadier floor.
+
+CLIP 5 | 0:32–0:40
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: two chairs by a window, a folder on one, curtains moving slightly.
+EFFECT: the curtain breathes inward once and settles; light on the floor evens out.
+ENVIRONMENT & LIGHT: warm natural light, plum window frame, mauve accents.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, clinical coldness, blue tint.
+OVERLAY: YOU REPORT
+NARRATION: If something feels wrong, you say so, and the plan changes.
+
+CLIP 6 | 0:40–0:48
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the mirror again, reflecting the room clearly and steadily.
+EFFECT: the reflection locks into perfect sync and holds, the glass catching a soft highlight.
+ENVIRONMENT & LIGHT: warm light, plum wall, calm stillness.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, one green #1FDF67 leaf on the sill.
+NEGATIVE: people, faces, silhouettes, text, letters, watermark, camera drift, cracked glass, horror.
+OVERLAY: STILL YOU
+NARRATION: Your reflection is still yours.
+```
 
 **Clips:**
 
@@ -224,6 +592,67 @@ Educational only — not medical advice or a diagnosis. If you are in crisis, ca
 **Length:** 30s
 **Model:** Veo
 
+**Copy pack:**
+
+```text
+POST 06 — How To Talk To Your Teen | Veo | 5 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: over-the-shoulder POV of a car passenger seat, a backpack on the floor, evening light through the windshield.
+EFFECT: the passenger door opens a few centimetres, then closes gently.
+ENVIRONMENT & LIGHT: quiet street, warm dashboard glow, plum shadows.
+STYLE & PALETTE: photoreal, intimate, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, night rain, blue tint.
+OVERLAY: TALKING TO A TEEN
+NARRATION: Your teenager is not giving you the silent treatment. They are testing the door.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the car from the back seat POV, two empty front seats, the rearview mirror showing the back window.
+EFFECT: the rearview mirror tilts a few degrees and holds.
+ENVIRONMENT & LIGHT: dusk light, warm upholstery, soft plum shade.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, horror, blue grade.
+OVERLAY: IN THE CAR
+NARRATION: Start in the car. Side by side is easier than face to face.
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: two mugs on a kitchen counter, one half full, a phone face-down nearby.
+EFFECT: steam from one mug leans toward the other, then rises straight.
+ENVIRONMENT & LIGHT: morning light from the left, warm white counter, mauve shadow.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, clutter, neon.
+OVERLAY: ASK SMALL
+NARRATION: Ask about the day, not the diagnosis.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a bedroom door ajar, a desk lamp glowing inside, a hoodie over the chair back.
+EFFECT: the gap of light on the floor widens slightly, then holds.
+ENVIRONMENT & LIGHT: dim hallway, warm room beyond, plum shadows.
+STYLE & PALETTE: photoreal, quiet, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, horror lighting, blue tint.
+OVERLAY: NOTICE, DON'T LABEL
+NARRATION: Say what you noticed, not what you concluded.
+
+CLIP 5 | 0:24–0:30
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the hallway from a low angle, the ajar door in the middle distance, warm light pooling.
+EFFECT: the door opens another few degrees by itself, then stops.
+ENVIRONMENT & LIGHT: soft evening light, warm white walls, plum door frame.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, one green #1FDF67 plant leaf near the door.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, jump scare, blue tint.
+OVERLAY: LEAVE SPACE
+NARRATION: Then stop talking long enough for an answer.
+```
+
 **Clips:**
 
 | # | Time | Dur | Visual | Overlay | Narration |
@@ -261,6 +690,56 @@ Educational only — not medical advice or a diagnosis. If you are in crisis, ca
 **Length:** 24s
 **Model:** Veo
 
+**Copy pack:**
+
+```text
+POST 07 — Two Things To Bring | Veo | 4 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: paper-collage of a thick folder bursting into loose blank pages that flutter upward.
+EFFECT: the pages lift and scatter slowly, leaving a small card wallet on the table.
+ENVIRONMENT & LIGHT: flat warm white paper field, plum shadow, photocopy grain.
+STYLE & PALETTE: mixed-media paper collage, analog zine, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, glossy 3D, camera drift, neon, realistic documents.
+OVERLAY: FIRST APPOINTMENT
+NARRATION: You do not need a folder full of records. You need two things.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: two blank cards side by side on a warm white surface, one with a simple silhouette cutout, one with a plum stripe.
+EFFECT: the cards slide together until they align, then hold level.
+ENVIRONMENT & LIGHT: flat warm light, mauve shadow line, paper fibre texture.
+STYLE & PALETTE: paper collage, analog zine, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, glossy 3D, camera drift, neon.
+OVERLAY: PHOTO ID + CARD
+NARRATION: Your photo ID and your insurance or Medicaid card.
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a blank paper envelope and a blank referral sheet on a clipboard, both cutouts.
+EFFECT: the envelope slides under the clip and stops, corners aligned.
+ENVIRONMENT & LIGHT: warm white field, plum clipboard shadow, mauve accents, photocopy grain.
+STYLE & PALETTE: paper collage, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, handwriting, watermark, glossy 3D, camera drift, neon.
+OVERLAY: REFERRAL IF YOU HAVE ONE
+NARRATION: If you have a referral, bring it. If not, come anyway.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a front-desk bell and a blank intake folder on a warm white counter, paper cutout style.
+EFFECT: the bell's button depresses once and releases with a soft bounce; the folder settles.
+ENVIRONMENT & LIGHT: warm light, plum shadow, mauve accent line, paper grain.
+STYLE & PALETTE: paper collage, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, one green #1FDF67 tab.
+NEGATIVE: people, faces, hands, text, letters, watermark, glossy 3D, camera drift, neon.
+OVERLAY: WE FILL IN THE REST
+NARRATION: The front desk fills in the rest with you.
+```
+
 **Clips:**
 
 | # | Time | Dur | Visual | Overlay | Narration |
@@ -296,6 +775,78 @@ Educational only — not medical advice. If you are in crisis, call or text 988.
 **Hook:** "There is more than one level of care, and the right one is not the biggest one."
 **Length:** 36s
 **Model:** Veo
+
+**Copy pack:**
+
+```text
+POST 08 — Levels Of Care, Plainly | Veo | 6 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: three nested paper boxes on a warm white surface, opening outward like steps.
+EFFECT: the smallest box rises and settles on top of the middle box.
+ENVIRONMENT & LIGHT: flat warm light, plum shadows, mauve accent edges.
+STYLE & PALETTE: minimalist paper still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, glossy 3D, camera drift, neon.
+OVERLAY: LEVELS OF CARE
+NARRATION: There is more than one level of care, and the right one is not the biggest one.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a single blank index card on a small stand, a clock face behind it out of focus.
+EFFECT: the clock hand sweeps slowly while the card stays still.
+ENVIRONMENT & LIGHT: warm side light, plum wall, mauve shadow.
+STYLE & PALETTE: minimalist still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, neon, glossy 3D.
+OVERLAY: OUTPATIENT
+NARRATION: Outpatient is a few hours a week.
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: three blank cards fanned on a warm white table, a calendar grid of blank squares behind.
+EFFECT: the cards fan wider, then align into a neat stack.
+ENVIRONMENT & LIGHT: flat warm light, plum shadow, mauve accent.
+STYLE & PALETTE: paper still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, glossy 3D, neon.
+OVERLAY: IOP
+NARRATION: Intensive outpatient is more structured, several days a week.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a stack of blank folders beside a lamp, the stack taller than the lamp base.
+EFFECT: the stack compresses slightly under its own weight, then holds.
+ENVIRONMENT & LIGHT: warm pool of light, plum desk, mauve accents.
+STYLE & PALETTE: minimalist still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, glossy 3D.
+OVERLAY: PHP
+NARRATION: Partial hospitalization is the most structured, several hours a day.
+
+CLIP 5 | 0:24–0:30
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a balance scale made of paper, two blank weights of different sizes on the pans.
+EFFECT: the smaller weight sinks the pan, then the scale levels as a third weight settles.
+ENVIRONMENT & LIGHT: flat warm light, plum shadow, mauve accent.
+STYLE & PALETTE: paper still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, glossy 3D, neon.
+OVERLAY: CHOSEN TOGETHER
+NARRATION: The level is chosen from what you need, not from how bad it looks.
+
+CLIP 6 | 0:30–0:36
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the smallest paper box back on the warm white surface, a green tab on its lid.
+EFFECT: the lid lifts a fraction and closes, then the box holds steady.
+ENVIRONMENT & LIGHT: warm light, soft plum shadow, calm.
+STYLE & PALETTE: minimalist paper still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 tab.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, glossy 3D.
+OVERLAY: SMALLER IS NOT FAILING
+NARRATION: Starting smaller is not failing.
+```
 
 **Clips:**
 
@@ -335,6 +886,67 @@ Educational only — not medical advice. If you are in crisis, call or text 988.
 **Length:** 30s
 **Model:** Veo
 
+**Copy pack:**
+
+```text
+POST 09 — The Voice On The Phone | Veo | 5 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a desk phone and a headset resting on a warm white desk, a blank notepad beside them.
+EFFECT: the phone's message light blinks once, then holds steady.
+ENVIRONMENT & LIGHT: soft window light from the left, plum wall, mauve accents.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, call-center coldness, blue tint.
+OVERLAY: WHO ANSWERS
+NARRATION: The first voice you hear is not a recording.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: POV over a reception counter toward an empty chair, a small bell and a blank clipboard.
+EFFECT: the chair rolls back slightly and stops, as if someone just stood.
+ENVIRONMENT & LIGHT: warm overhead light, plum accent wall, warm white counter.
+STYLE & PALETTE: photoreal, intimate, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, fluorescent cold light, blue tint.
+OVERLAY: A REAL PERSON
+NARRATION: A real person answers, asks your name, and asks what you are looking for.
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a headset on a hook, a mug of tea beside it, a soft lamp glowing.
+EFFECT: the headset sways once and settles.
+ENVIRONMENT & LIGHT: warm pool of light, plum desk, mauve cables, calm.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, cold light.
+OVERLAY: NO FULL STORY NEEDED
+NARRATION: You do not have to explain everything on the first call.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a blank rate sheet and a blank card on a desk, a phone beside them.
+EFFECT: the top sheet lifts at one corner, then lies flat.
+ENVIRONMENT & LIGHT: warm side light, plum shadows, mauve accents.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, neon, glossy 3D.
+OVERLAY: ASK ANYTHING
+NARRATION: You can ask about cost, hours, and whether your plan is accepted.
+
+CLIP 5 | 0:24–0:30
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the phone again, now off the hook on its cradle, a green sticky tab on the notepad.
+EFFECT: the message light glows steadily; the curtain at the edge of frame shifts once.
+ENVIRONMENT & LIGHT: warm light, calm room, plum shadows.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 tab.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, blue tint.
+OVERLAY: CALL BACK ANYTIME
+NARRATION: If you are not ready, that is allowed. You can call back.
+```
+
 **Clips:**
 
 | # | Time | Dur | Visual | Overlay | Narration |
@@ -372,6 +984,67 @@ Educational only — not medical advice. If you are in crisis, call or text 988.
 **Length:** 30s
 **Model:** Veo
 
+**Copy pack:**
+
+```text
+POST 10 — Therapy Is Not Only For Crisis | Veo | 5 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a long corridor with harsh overhead lights and a closed double door at the end.
+EFFECT: the doors swing open and reveal a warm, softly lit room beyond.
+ENVIRONMENT & LIGHT: stark corridor foreground, warm room background, plum shadows.
+STYLE & PALETTE: photoreal bait-and-switch, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, hospital gurney, blood, blue tint.
+OVERLAY: NOT THE ER
+NARRATION: Therapy is not the emergency room. It is the maintenance.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the warm room with two armchairs, a rug, a plant, and a window.
+EFFECT: the curtains settle and the light evens, inviting.
+ENVIRONMENT & LIGHT: natural warm light, plum accents, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, clinical equipment, blue light.
+OVERLAY: YOU DO NOT HAVE TO BREAK
+NARRATION: You do not have to be in crisis to deserve support.
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a wall calendar with blank squares, one square marked by a plum tab, a mug on the sill.
+EFFECT: the tab lifts slightly and lands on a nearer square.
+ENVIRONMENT & LIGHT: morning light, warm white walls, mauve accents.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, neon.
+OVERLAY: REASONS TOO
+NARRATION: A hard month, a stuck pattern, a transition — those are reasons too.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a single chair by a window, a folded blanket on its arm, light pooling on the floor.
+EFFECT: the light shifts a few centimetres and holds; the blanket's edge lifts.
+ENVIRONMENT & LIGHT: late-afternoon light, plum floor shadow.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, sadness, blue tint.
+OVERLAY: EARLIER IS EASIER
+NARRATION: Waiting until it is unbearable makes the first step harder.
+
+CLIP 5 | 0:24–0:30
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the doorway of the warm room from the corridor, the threshold lit softly.
+EFFECT: the corridor lights dim and the room light grows, then holds.
+ENVIRONMENT & LIGHT: warm and cool contrast resolved toward warm, plum accents.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 plant leaf.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, horror, blue tint.
+OVERLAY: YOU ARE ALLOWED
+NARRATION: You are allowed to come early.
+```
+
 **Clips:**
 
 | # | Time | Dur | Visual | Overlay | Narration |
@@ -408,6 +1081,78 @@ Educational only — not medical advice or a diagnosis. If you are in crisis, ca
 **Hook:** "There is a pause after I'm fine. Learn to hear it."
 **Length:** 48s
 **Model:** Veo
+
+**Copy pack:**
+
+```text
+POST 11 — The Pause After I'm Fine | Veo | 6 clips
+
+CLIP 1 | 0:00–0:08
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a kitchen at dusk, one warm lamp glowing, a phone face-up on the table and a mug beside it.
+EFFECT: the lamp flickers once, then steadies at a lower warmth.
+ENVIRONMENT & LIGHT: fading blue window light, plum shadows, mauve accents.
+STYLE & PALETTE: photoreal, quiet and cinematic, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, horror, heavy rain, blue tint.
+OVERLAY: THE PAUSE
+NARRATION: There is a pause after I'm fine. Learn to hear it.
+
+CLIP 2 | 0:08–0:16
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the phone screen glowing softly on the table, a second mug already beside it.
+EFFECT: the screen brightens once and dims, like a breath; steam from the mug leans toward the phone.
+ENVIRONMENT & LIGHT: warm lamp light, plum table, mauve napkin.
+STYLE & PALETTE: photoreal, intimate still-life.
+NEGATIVE: people, faces, hands, text, letters, app icons, watermark, camera drift, neon, blue tint.
+OVERLAY: STAY
+NARRATION: The pause is not proof of anything. It is an invitation to stay.
+
+CLIP 3 | 0:16–0:24
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: two mugs side by side, steam rising in the lamp light, a folded newspaper.
+EFFECT: one steam column bends toward the other and merges, then separates.
+ENVIRONMENT & LIGHT: warm pool of light, plum shadows, mauve accents.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, clutter.
+OVERLAY: ASK SMALLER
+NARRATION: Do not argue with the fine. Ask a smaller question.
+
+CLIP 4 | 0:24–0:32
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a window with sheer curtains, dusk outside, a chair silhouetted against the light.
+EFFECT: the curtain lifts and falls slowly, the light dimming a shade.
+ENVIRONMENT & LIGHT: cool dusk outside, warm interior, plum frame.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, silhouettes, text, letters, watermark, camera drift, horror, rain.
+OVERLAY: WHAT WAS HEAVIEST
+NARRATION: Try: what part of today was heaviest?
+
+CLIP 5 | 0:32–0:40
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the two mugs again, now still, the lamp steady, a book open face-down.
+EFFECT: the steam thins to nothing; the light warms and holds.
+ENVIRONMENT & LIGHT: calm warm interior, plum shadows, mauve accent.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, melodrama.
+OVERLAY: BE QUIET
+NARRATION: Then be quiet. Silence is not a failure to help.
+
+CLIP 6 | 0:40–0:48
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the lamp and the window from a wider angle, the room settled, a green plant on the sill.
+EFFECT: the light on the wall softens and steadies, one mote of dust drifting.
+ENVIRONMENT & LIGHT: warm evening light, plum walls, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 leaf.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, horror, blue tint.
+OVERLAY: STILL BE THERE
+NARRATION: You do not need perfect words. You need to still be there.
+```
 
 **Clips:**
 
@@ -447,6 +1192,78 @@ Educational only — not medical advice or a diagnosis. If you are in crisis, ca
 **Length:** 36s
 **Model:** Veo
 
+**Copy pack:**
+
+```text
+POST 12 — The Evaluation Is Not A Test | Veo | 6 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a wall clock with a blank face, its hands sweeping slowly over an empty paper grid beneath it.
+EFFECT: the hands slow to a stop and the grid settles flat.
+ENVIRONMENT & LIGHT: warm side light, plum wall, mauve accent.
+STYLE & PALETTE: minimalist still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, neon, glossy 3D.
+OVERLAY: NOT A TEST
+NARRATION: The evaluation is not a test you can fail.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: two chairs facing each other, a blank notebook on the side table, warm light between them.
+EFFECT: the notebook's pages turn slowly one by one, then stop.
+ENVIRONMENT & LIGHT: warm natural light, plum shadows, calm.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, handwriting, watermark, camera drift, clinical coldness, blue tint.
+OVERLAY: A CONVERSATION
+NARRATION: It is a conversation about what has been happening and what you want to change.
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a checklist of blank squares on a clipboard, a pen resting across it.
+EFFECT: a few squares fill with soft plum light in sequence, then fade back to blank.
+ENVIRONMENT & LIGHT: warm desk light, mauve accents, paper texture.
+STYLE & PALETTE: minimalist still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, neon, glossy 3D.
+OVERLAY: SLEEP · MOOD · SAFETY
+NARRATION: You will be asked about sleep, mood, substances, and safety.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a page with one blank line skipped, the rest of the page softly lit.
+EFFECT: a paper tab lifts and moves past the skipped line, then settles.
+ENVIRONMENT & LIGHT: warm light from the left, plum shadow, mauve accent.
+STYLE & PALETTE: minimalist paper still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, handwriting, watermark, camera drift, neon.
+OVERLAY: YOU CAN SKIP
+NARRATION: You can skip a question and come back to it.
+
+CLIP 5 | 0:24–0:30
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a blank folder opening to reveal three blank cards fanned inside.
+EFFECT: the cards rise one at a time and arrange in a line, then hold.
+ENVIRONMENT & LIGHT: warm pool of light, plum desk, mauve accents.
+STYLE & PALETTE: minimalist still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, neon, glossy 3D.
+OVERLAY: OPTIONS, NOT A VERDICT
+NARRATION: At the end you get options, not a verdict.
+
+CLIP 6 | 0:30–0:36
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a door ajar at the end of a warm hallway, light spilling across the floor, a green tab on the frame.
+EFFECT: the door opens another few degrees and the light widens, then holds.
+ENVIRONMENT & LIGHT: warm evening light, plum frames, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 tab.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, horror lighting, blue tint.
+OVERLAY: A NEXT STEP
+NARRATION: You leave with a next step.
+```
+
 **Clips:**
 
 | # | Time | Dur | Visual | Overlay | Narration |
@@ -485,6 +1302,67 @@ Educational only — not medical advice or a diagnosis. If you are in crisis, ca
 **Length:** 30s
 **Model:** Veo
 
+**Copy pack:**
+
+```text
+POST 13 — How A Referral Opens The Door | Veo | 5 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a free-standing wooden door in the middle of a quiet hallway, closed, with warm light escaping the edges.
+EFFECT: the door drifts open on its own, revealing a warm room beyond.
+ENVIRONMENT & LIGHT: cool hallway, warm room, plum frame, dust in the beam.
+STYLE & PALETTE: photoreal, quiet and cinematic, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, horror lighting, blue tint.
+OVERLAY: REFERRAL
+NARRATION: A referral is not a permission slip. It is a shortcut.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a blank envelope sliding under the same door, a soft shadow beneath it.
+EFFECT: the envelope slides through and lands on the warm floor, then settles.
+ENVIRONMENT & LIGHT: warm light from the room, plum threshold, mauve accent.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, glossy 3D.
+OVERLAY: INFORMATION AHEAD
+NARRATION: A doctor, a school, or a court can send your information ahead.
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a blank folder on a desk with two blank cards leaning against it, a phone nearby.
+EFFECT: the cards slide together and align, then hold.
+ENVIRONMENT & LIGHT: warm desk light, plum shadow, mauve accents.
+STYLE & PALETTE: minimalist still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, neon, glossy 3D.
+OVERLAY: WITH YOUR PERMISSION
+NARRATION: It tells us who to coordinate with, with your permission.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the open doorway again, a chair visible inside, the threshold lit.
+EFFECT: the light on the floor pulses once, then settles.
+ENVIRONMENT & LIGHT: warm interior, plum frame, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, horror, blue tint.
+OVERLAY: NOT A COMMITMENT
+NARRATION: It does not commit you to anything.
+
+CLIP 5 | 0:24–0:30
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: two doorways side by side in a warm hallway, both open, one with a green tab.
+EFFECT: a draft moves through both doorways, dust drifting, then all stills.
+ENVIRONMENT & LIGHT: warm light, plum frames, warm white walls.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 tab.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, horror, blue tint.
+OVERLAY: NO REFERRAL? CALL
+NARRATION: No referral? You can still call.
+```
+
 **Clips:**
 
 | # | Time | Dur | Visual | Overlay | Narration |
@@ -521,6 +1399,78 @@ Educational only — not medical advice. If you are in crisis, call or text 988.
 **Hook:** "Prayer and treatment are not competing for the same seat."
 **Length:** 48s
 **Model:** Veo
+
+**Copy pack:**
+
+```text
+POST 14 — Faith And Treatment Are Not Opposites | Veo | 6 clips
+
+CLIP 1 | 0:00–0:08
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: two wooden chairs facing a bright window, a closed book on a side table between them.
+EFFECT: the light through the window widens slowly, touching both chairs equally.
+ENVIRONMENT & LIGHT: soft morning light, plum walls, warm white floor.
+STYLE & PALETTE: photoreal, quiet and cinematic, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, religious symbols in detail, watermark, camera drift, blue tint.
+OVERLAY: BOTH, NOT EITHER
+NARRATION: Prayer and treatment are not competing for the same seat.
+
+CLIP 2 | 0:08–0:16
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a mirror on a warm wall reflecting the two chairs and the window, perfectly symmetrical.
+EFFECT: the reflection holds steady while a dust mote crosses the glass.
+ENVIRONMENT & LIGHT: balanced warm light, plum frame, mauve accents.
+STYLE & PALETTE: photoreal mirror still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, silhouettes, text, letters, watermark, camera drift, cracked glass, horror.
+OVERLAY: MANY PEOPLE DO BOTH
+NARRATION: Many people we serve pray, and also see a clinician.
+
+CLIP 3 | 0:16–0:24
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a candle beside a small lamp on a shelf, both glowing, both still.
+EFFECT: the candle flame leans once toward the lamp and returns upright.
+ENVIRONMENT & LIGHT: dim warm room, plum shadows, mauve accents.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, religious text.
+OVERLAY: DIFFERENT JOBS
+NARRATION: One supports meaning. The other supports sleep, mood, and safety.
+
+CLIP 4 | 0:24–0:32
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a blank notebook open on a table, a pen across it, the candle light nearby.
+EFFECT: the pages lift and settle in a slow breath.
+ENVIRONMENT & LIGHT: warm pool of light, plum table, calm.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, handwriting, watermark, camera drift, neon.
+OVERLAY: NO EITHER OR
+NARRATION: You do not have to choose between your faith and your health.
+
+CLIP 5 | 0:32–0:40
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the mirror again, reflection crisp, the chairs and window aligned.
+EFFECT: the glass clears a faint fog from one corner outward.
+ENVIRONMENT & LIGHT: warm balanced light, plum frame, calm.
+STYLE & PALETTE: photoreal mirror still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, silhouettes, text, letters, watermark, camera drift, horror, cracked glass.
+OVERLAY: ASK QUESTIONS
+NARRATION: If a provider dismisses your faith, that is a reason to ask questions.
+
+CLIP 6 | 0:40–0:48
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the window seat with a green plant on the sill, the two chairs behind.
+EFFECT: the light settles warmly across the sill and holds.
+ENVIRONMENT & LIGHT: soft afternoon light, plum shadows, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 leaf.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, blue tint.
+OVERLAY: RESPECT BOTH
+NARRATION: You deserve care that respects both.
+```
 
 **Clips:**
 
@@ -560,6 +1510,67 @@ Educational only — not medical advice or a diagnosis. If you are in crisis, ca
 **Length:** 30s
 **Model:** Veo
 
+**Copy pack:**
+
+```text
+POST 15 — Five Things Worth Talking About | Veo | 5 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: five blank paper panels floating in a warm white field, plum seams between them.
+EFFECT: the panels snap into a staggered column, aligned edge to edge.
+ENVIRONMENT & LIGHT: flat warm light, mauve shadow, paper grain.
+STYLE & PALETTE: minimalist typographic still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: letters, words, numbers, text, people, hands, watermark, camera drift, neon, glossy 3D.
+OVERLAY: NOT A DIAGNOSIS
+NARRATION: Not a diagnosis. Five things worth talking about.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a bedside table with a clock, a glass of water, and a rumpled pillow.
+EFFECT: the clock's second hand sweeps; the water trembles once.
+ENVIRONMENT & LIGHT: dim warm light, plum shadows, calm.
+STYLE & PALETTE: minimalist still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: letters, words, numbers, text, people, faces, hands, watermark, camera drift, neon, horror.
+OVERLAY: 1 · SLEEP
+NARRATION: Sleep that will not come, or will not stop.
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a plate and a fork on a warm white table, untouched, a napkin folded.
+EFFECT: the napkin lifts at one corner and falls back.
+ENVIRONMENT & LIGHT: morning light, plum shadow, mauve accent.
+STYLE & PALETTE: minimalist still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: letters, words, numbers, text, people, faces, hands, watermark, camera drift, neon.
+OVERLAY: 2 · APPETITE
+NARRATION: Appetite that disappeared, or will not switch off.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a closed door with a small dent in the frame, a jacket on a hook.
+EFFECT: the jacket sleeve swings once and settles.
+ENVIRONMENT & LIGHT: warm hallway light, plum door, mauve accents.
+STYLE & PALETTE: minimalist still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: letters, words, numbers, text, people, faces, hands, watermark, camera drift, horror, neon.
+OVERLAY: 3 · ANGER
+NARRATION: Anger that arrives too fast for the situation.
+
+CLIP 5 | 0:24–0:30
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a phone face-down beside an empty chair, a window with flat grey light.
+EFFECT: the curtain hangs still; a single mote of dust drops through the light.
+ENVIRONMENT & LIGHT: cool window light warming at the edges, plum shadows.
+STYLE & PALETTE: minimalist still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 leaf.
+NEGATIVE: letters, words, numbers, text, people, faces, hands, watermark, camera drift, horror, neon.
+OVERLAY: 4 + 5 · WITHDRAWAL · FLATNESS
+NARRATION: Pulling away from people, and a flatness that will not lift. If these are new or getting worse, talk to someone.
+```
+
 **Clips:**
 
 | # | Time | Dur | Visual | Overlay | Narration |
@@ -596,6 +1607,67 @@ Educational only — not medical advice or a diagnosis. If you are in crisis, ca
 **Hook:** "Medication management is mostly a conversation, once a month."
 **Length:** 30s
 **Model:** Veo
+
+**Copy pack:**
+
+```text
+POST 16 — The Monthly Check-In | Veo | 5 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a wall calendar with blank squares, a single plum tab on one day, a pen below.
+EFFECT: the tab lifts and moves to a later day, then settles.
+ENVIRONMENT & LIGHT: warm desk light, mauve accents, plum shadow.
+STYLE & PALETTE: minimalist still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, neon, glossy 3D.
+OVERLAY: ONCE A MONTH
+NARRATION: Medication management is mostly a conversation, once a month.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a closed pill organizer, a notebook, and a glass of water on a warm white table.
+EFFECT: the notebook's page turns slowly in a soft draft, then stops.
+ENVIRONMENT & LIGHT: morning light, plum shadow, mauve accent.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, pills spilling, text, letters, watermark, camera drift, neon.
+OVERLAY: SLEEP · FOCUS · CHANGE
+NARRATION: How is sleep. How is focus. What changed. What side effects.
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a paper slider on a blank card, moving between three notches.
+EFFECT: the slider moves up one notch, pauses, moves back down one, then centres.
+ENVIRONMENT & LIGHT: flat warm light, plum card, mauve notches.
+STYLE & PALETTE: minimalist graphic still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, neon, glossy 3D.
+OVERLAY: UP · DOWN · SAME
+NARRATION: The dose can go up, down, or stay exactly the same.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a clock face and an open notebook side by side, a lamp glowing above.
+EFFECT: the clock hands reverse a few minutes, then resume forward.
+ENVIRONMENT & LIGHT: warm pool of light, plum desk, calm.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, neon.
+OVERLAY: NOT LOCKED IN
+NARRATION: You are not locked into a decision you made in week one.
+
+CLIP 5 | 0:24–0:30
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: two chairs and a small table with a folder, warm light between them.
+EFFECT: the folder opens slightly and the light brightens, then holds.
+ENVIRONMENT & LIGHT: warm natural light, plum shadows, mauve accent, green #1FDF67 tab.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, clinical coldness, blue tint.
+OVERLAY: REVIEWED WITH YOU
+NARRATION: The plan is reviewed with you, not done to you.
+```
 
 **Clips:**
 
@@ -634,6 +1706,78 @@ Educational only — not medical advice or a diagnosis. If you are in crisis, ca
 **Length:** 48s
 **Model:** Veo
 
+**Copy pack:**
+
+```text
+POST 17 — Why They Stay | Veo | 6 clips
+
+CLIP 1 | 0:00–0:08
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a staff break room with a long table, mismatched mugs, a plant, and a whiteboard with no writing visible.
+EFFECT: the blinds shift and a shaft of light moves across the table, then steadies.
+ENVIRONMENT & LIGHT: morning light, plum chairs, warm white walls.
+STYLE & PALETTE: photoreal, warm documentary, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, sterile office, blue tint.
+OVERLAY: WHY THEY STAY
+NARRATION: The people who work here could work anywhere. Here is why they stay.
+
+CLIP 2 | 0:08–0:16
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a desk with a blank appointment card and a small plant, a window behind.
+EFFECT: the card lifts and lands square, as if just placed.
+ENVIRONMENT & LIGHT: warm side light, plum desk, mauve accents.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, glossy 3D.
+OVERLAY: SMALL, VISIBLE PROGRESS
+NARRATION: Because progress here is small and visible: a first appointment kept, a routine that holds.
+
+CLIP 3 | 0:16–0:24
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a round table with several blank folders arranged in a circle, chairs around it.
+EFFECT: one folder opens a fraction, then all settle into alignment.
+ENVIRONMENT & LIGHT: warm overhead light, plum shadows, calm.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, clutter.
+OVERLAY: NO ONE ALONE
+NARRATION: Because the team meets weekly, and no one carries a caseload alone.
+
+CLIP 4 | 0:24–0:32
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a window view of a Baltimore rowhouse street at dusk, a brick wall and a tree.
+EFFECT: one window light comes on across the street, then another.
+ENVIRONMENT & LIGHT: dusk blue sky, warm windows, plum shadows.
+STYLE & PALETTE: photoreal, documentary, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, cars in motion, text, letters, watermark, camera drift, neon, rain.
+OVERLAY: BALTIMORE IS THE REASON
+NARRATION: Because Baltimore is not a backdrop. It is the reason.
+
+CLIP 5 | 0:32–0:40
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a reception desk with a blank nameplate holder, an empty chair, a green plant.
+EFFECT: the chair rolls an inch toward the desk and stops.
+ENVIRONMENT & LIGHT: warm overhead light, plum wall, mauve accents.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 leaf.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, cold fluorescent light, blue tint.
+OVERLAY: BY NAME
+NARRATION: You will meet them by name.
+
+CLIP 6 | 0:40–0:48
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a doorway into a warm office, a coat on a hook, light on the floor.
+EFFECT: the door eases open and the light widens, then holds.
+ENVIRONMENT & LIGHT: warm interior, plum frame, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, horror, blue tint.
+OVERLAY: CAREERS ARE OPEN
+NARRATION: Careers are open. Ask us.
+```
+
 **Clips:**
 
 | # | Time | Dur | Visual | Overlay | Narration |
@@ -669,6 +1813,67 @@ Email admin@grandjourneybhs.com to meet the team or apply.
 **Hook:** "You made the call. Here is exactly what happens next."
 **Length:** 30s
 **Model:** Veo
+
+**Copy pack:**
+
+```text
+POST 18 — After You Hang Up | Veo | 5 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: POV looking down at a phone resting on a warm white table, a notepad beside it.
+EFFECT: the phone screen lights softly and dims once.
+ENVIRONMENT & LIGHT: warm overhead light, plum shadows, mauve accents.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, app icons, watermark, camera drift, neon, blue tint.
+OVERLAY: YOU CALLED
+NARRATION: You made the call. Here is exactly what happens next.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a paper calendar grid on a desk, a blank card with a plum corner tab.
+EFFECT: the card slides to a free square and settles.
+ENVIRONMENT & LIGHT: warm desk light, mauve accents, paper texture.
+STYLE & PALETTE: minimalist still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, neon, glossy 3D.
+OVERLAY: WE CHECK YOUR PLAN
+NARRATION: We check your plan and find the next open appointment.
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a blank envelope, a blank card, and a small map folded on a table.
+EFFECT: the map unfolds a little, edges curling, then rests.
+ENVIRONMENT & LIGHT: warm side light, plum shadow, mauve accents.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, glossy 3D.
+OVERLAY: DATE · ADDRESS · WHAT TO BRING
+NARRATION: You get the date, the address, and what to bring.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a waiting room with two chairs and a low table, a clock above.
+EFFECT: the clock's hand moves slowly; a magazine page flips in a draft.
+ENVIRONMENT & LIGHT: warm afternoon light, plum shadows, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, cold hospital, blue tint.
+OVERLAY: WE TELL YOU THE REAL WAIT
+NARRATION: If the wait is long, we tell you the real wait.
+
+CLIP 5 | 0:24–0:30
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the phone again, now showing a soft green glow at its edge, the notepad with a green tab.
+EFFECT: the glow pulses once and holds.
+ENVIRONMENT & LIGHT: warm light, plum table, calm.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 glow.
+NEGATIVE: people, faces, hands, text, letters, app icons, watermark, camera drift, neon.
+OVERLAY: ASK FOR A CALLBACK
+NARRATION: You can ask to be called if something opens sooner.
+```
 
 **Clips:**
 
@@ -707,6 +1912,67 @@ Educational only — not medical advice. If you are in crisis, call or text 988.
 **Length:** 30s
 **Model:** Veo
 
+**Copy pack:**
+
+```text
+POST 19 — Good Vibes Are Not A Treatment Plan | Veo | 5 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a wall of identical blank posters in a warm room, one poster slightly crooked.
+EFFECT: a horizontal scanline tears across the wall, the posters shiver, then snap back sharp.
+ENVIRONMENT & LIGHT: warm light flickering, plum shadows, dust.
+STYLE & PALETTE: photoreal with digital glitch, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: letters, words, numbers, text, people, faces, watermark, camera drift, neon, heavy distortion left on screen.
+OVERLAY: JUST BE POSITIVE
+NARRATION: Just be positive is not a treatment plan.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a cup of tea and a folded blanket on a chair, both calm, a poster corner entering frame.
+EFFECT: the blanket's fibres shimmer into pixels at the edge, then resolve.
+ENVIRONMENT & LIGHT: soft warm light, plum wall, mauve accents.
+STYLE & PALETTE: photoreal, subtle glitch, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: letters, words, text, people, faces, hands, watermark, camera drift, neon, full corruption.
+OVERLAY: POSITIVITY IS KIND
+NARRATION: Positivity can be kind. It cannot regulate sleep or treat withdrawal.
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a stack of blank cards, each identical, repeating in a loop across the frame.
+EFFECT: the cards replicate outward, overlap, and begin to stutter, then stop.
+ENVIRONMENT & LIGHT: flat warm light, plum shadows, mauve accents.
+STYLE & PALETTE: glitch still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: letters, words, numbers, text, people, faces, watermark, camera drift, neon, seizure-inducing flashing.
+OVERLAY: NOISE
+NARRATION: When the same advice repeats, it starts to sound like noise.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a single card on a table with a clear plum line and three blank checkboxes.
+EFFECT: the three boxes fill with soft plum light one by one, then hold.
+ENVIRONMENT & LIGHT: warm desk light, mauve accent, clean and calm.
+STYLE & PALETTE: minimalist still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: letters, words, text, people, faces, hands, watermark, camera drift, glitch, neon.
+OVERLAY: SPECIFIC HELP
+NARRATION: What helps is specific: a plan, a person, a next step.
+
+CLIP 5 | 0:24–0:30
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the wall of posters again, now all straight and evenly lit, one green tab on the nearest.
+EFFECT: the light steadies completely; the glitch residue clears.
+ENVIRONMENT & LIGHT: warm balanced light, plum shadows, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 tab.
+NEGATIVE: letters, words, text, people, faces, watermark, camera drift, glitch, neon.
+OVERLAY: MORE THAN A SLOGAN
+NARRATION: You are allowed to want more than a slogan.
+```
+
 **Clips:**
 
 | # | Time | Dur | Visual | Overlay | Narration |
@@ -743,6 +2009,78 @@ Educational only — not medical advice or a diagnosis. If you are in crisis, ca
 **Hook:** "A boundary is not the same as walking away."
 **Length:** 48s
 **Model:** Veo
+
+**Copy pack:**
+
+```text
+POST 20 — A Boundary Is Not Abandonment | Veo | 6 clips
+
+CLIP 1 | 0:00–0:08
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a mirror in a warm hallway reflecting two doors, one open, one closed.
+EFFECT: the reflection shifts a few centimetres out of alignment, then matches the room exactly.
+ENVIRONMENT & LIGHT: warm lamp light, plum frames, mauve accents.
+STYLE & PALETTE: photoreal mirror still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, silhouettes, text, letters, watermark, camera drift, cracked glass, horror.
+OVERLAY: BOUNDARY
+NARRATION: A boundary is not the same as walking away.
+
+CLIP 2 | 0:08–0:16
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a blank sheet of paper with a single clean plum line drawn across it, a pen resting below.
+EFFECT: the line extends slowly to the edge of the paper and stops.
+ENVIRONMENT & LIGHT: warm desk light, mauve shadow, paper fibre.
+STYLE & PALETTE: minimal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, handwriting, watermark, camera drift, neon.
+OVERLAY: LOVE AND LIMITS
+NARRATION: You can love someone and still say: I cannot be the only support.
+
+CLIP 3 | 0:16–0:24
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: two chairs facing each other with a small table between, a folded blanket on one arm.
+EFFECT: the blanket's edge lifts and folds back neatly, then holds.
+ENVIRONMENT & LIGHT: warm natural light, plum shadows, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, melodrama, blue tint.
+OVERLAY: NAME WHAT YOU WILL DO
+NARRATION: A boundary names what you will do, not what they must do.
+
+CLIP 4 | 0:24–0:32
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a phone on a nightstand, a small clock beside it, dark room with a sliver of hallway light.
+EFFECT: the clock's face ticks; the hallway light narrows as a door closes, then holds.
+ENVIRONMENT & LIGHT: low warm light, plum shadows, quiet.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, horror, neon.
+OVERLAY: A REAL EXAMPLE
+NARRATION: Try: I will call on Sundays. I will not answer at two in the morning unless it is an emergency.
+
+CLIP 5 | 0:32–0:40
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the mirror again, reflecting the hallway and a green plant at the edge.
+EFFECT: the reflection stabilises perfectly; the plant leaf moves once in the real room and in the glass.
+ENVIRONMENT & LIGHT: warm light, plum frame, calm.
+STYLE & PALETTE: photoreal mirror still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 leaf.
+NEGATIVE: people, faces, silhouettes, text, letters, watermark, camera drift, cracked glass, horror.
+OVERLAY: STAY OR BURN OUT
+NARRATION: The mirror test: does this let me stay, or does it burn me out?
+
+CLIP 6 | 0:40–0:48
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a cup of tea on a windowsill, steam rising, a chair behind it.
+EFFECT: the steam curls once and thins; the light warms and steadies.
+ENVIRONMENT & LIGHT: late light, plum window frame, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, blue tint.
+OVERLAY: STAYING WELL HELPS
+NARRATION: Staying well is part of helping.
+```
 
 **Clips:**
 
@@ -782,6 +2120,78 @@ Educational only — not medical advice or a diagnosis. If you are in crisis, ca
 **Length:** 36s
 **Model:** Veo
 
+**Copy pack:**
+
+```text
+POST 21 — What Trauma-Informed Actually Means | Veo | 6 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a harsh fluorescent room with hard shadows and plastic chairs.
+EFFECT: the fluorescent tubes flicker out one by one, and warm lamp light fades in from the edges.
+ENVIRONMENT & LIGHT: cold foreground, warm light spreading.
+STYLE & PALETTE: photoreal bait-and-switch, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, medical equipment, blue tint, flashing.
+OVERLAY: NOT A SLOGAN
+NARRATION: Trauma-informed is not a slogan. It changes what we do.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a door ajar with warm light, a small sign holder blank beside it, a chair.
+EFFECT: the door opens a little more and the light on the floor widens.
+ENVIRONMENT & LIGHT: warm hallway, plum frame, dust in the beam.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, horror, blue tint.
+OVERLAY: WE EXPLAIN FIRST
+NARRATION: We explain before we ask. You know what is coming next.
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: two chairs at an angle, a side table with a blank card standing upright, a blanket.
+EFFECT: the card tilts toward the viewer and steadies.
+ENVIRONMENT & LIGHT: warm side light, plum shadows, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, clinical coldness, blue tint.
+OVERLAY: PAUSE OR DECLINE
+NARRATION: You can pause, decline a question, or bring someone with you.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a closed notebook on a table, a lamp, a glass of water, a folded blanket.
+EFFECT: the lamp brightens one step; the notebook stays closed.
+ENVIRONMENT & LIGHT: warm pool of light, plum desk, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, handwriting, watermark, camera drift, neon.
+OVERLAY: NOT THE WHOLE STORY
+NARRATION: We do not require you to tell the whole story to start.
+
+CLIP 5 | 0:24–0:30
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a thermostat-like dial on a plum wall, a green marker at the low setting.
+EFFECT: the dial turns smoothly a few degrees toward warm and stops.
+ENVIRONMENT & LIGHT: warm wall light, mauve accents, soft shadow.
+STYLE & PALETTE: minimalist still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 marker.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, neon, glossy 3D.
+OVERLAY: SAFETY AND CHOICE
+NARRATION: Safety and choice are part of the treatment, not a bonus.
+
+CLIP 6 | 0:30–0:36
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the warm room from the doorway, two chairs, a plant, light spilling out.
+EFFECT: the camera light level settles and the room holds, calm.
+ENVIRONMENT & LIGHT: warm natural light, plum shadows, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, horror, blue tint.
+OVERLAY: THAT IS WHAT IT MEANS
+NARRATION: That is what the words are supposed to mean.
+```
+
 **Clips:**
 
 | # | Time | Dur | Visual | Overlay | Narration |
@@ -820,6 +2230,56 @@ Educational only — not medical advice or a diagnosis. If you are in crisis, ca
 **Length:** 24s
 **Model:** Veo
 
+**Copy pack:**
+
+```text
+POST 22 — Why The Paperwork Exists | Veo | 4 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a tall stack of blank paper forms on a desk, a pen on top.
+EFFECT: the stack slides sideways a centimetre and settles, pages fanning.
+ENVIRONMENT & LIGHT: warm desk light, plum shadow, mauve accents.
+STYLE & PALETTE: paper still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, handwriting, watermark, camera drift, neon, glossy 3D.
+OVERLAY: PAPERWORK
+NARRATION: The paperwork is not there to test your patience.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a clipboard with a blank form, three blank checkboxes, a pen clipped at the top.
+EFFECT: the pages ripple once in a draft and flatten.
+ENVIRONMENT & LIGHT: warm side light, plum board, mauve accent.
+STYLE & PALETTE: paper still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, neon.
+OVERLAY: WHAT YOU WANT
+NARRATION: It records what you want, what you have tried, and what to avoid.
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: two blank folders on a table, set at an angle, a paperclip linking their edges.
+EFFECT: the second folder slides toward the first until the clip bridges both, then holds.
+ENVIRONMENT & LIGHT: warm overhead light, plum shadows, paper fibre.
+STYLE & PALETTE: paper still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, glossy 3D.
+OVERLAY: SO WE DO NOT START OVER
+NARRATION: It is how two clinicians can coordinate without starting over.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a blank form on a warm white counter with a green tab at the corner, a small bell beside it.
+EFFECT: the bell's button depresses once and releases; the tab lifts slightly.
+ENVIRONMENT & LIGHT: warm light, plum desk, calm.
+STYLE & PALETTE: paper still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 tab.
+NEGATIVE: people, faces, hands, realistic hand, text, letters, watermark, camera drift, neon.
+OVERLAY: ASK FOR HELP
+NARRATION: Ask for help filling it in. That is allowed.
+```
+
 **Clips:**
 
 | # | Time | Dur | Visual | Overlay | Narration |
@@ -855,6 +2315,78 @@ Educational only — not medical advice. If you are in crisis, call or text 988.
 **Hook:** "Stigma does not just hurt feelings. It delays care."
 **Length:** 36s
 **Model:** Veo
+
+**Copy pack:**
+
+```text
+POST 23 — What Stigma Costs | Veo | 6 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a warm lamp on a table, covered by a heavy cloth, only a thin line of light escaping.
+EFFECT: the cloth breathes inward once and settles, the light line narrowing.
+ENVIRONMENT & LIGHT: dim room, plum shadows, mauve accents.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, horror, neon.
+OVERLAY: HIDDEN
+NARRATION: Stigma does not just hurt feelings. It delays care.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the cloth lifting from one corner, warm light spilling onto the table and floor.
+EFFECT: the cloth rises slowly and slides off, the lamp fully revealed.
+ENVIRONMENT & LIGHT: warm light expanding, plum shadows softening.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, harsh flash.
+OVERLAY: DELAY MAKES IT HARDER
+NARRATION: It keeps people from asking, and delay makes the first step harder.
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a closed door with a coat on a hook, a warm light line beneath the door.
+EFFECT: the light beneath the door widens slightly, then steadies.
+ENVIRONMENT & LIGHT: dim hallway warming, plum door, mauve accents.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, horror, blue tint.
+OVERLAY: FAMILIES HIDE
+NARRATION: It teaches families to hide what is happening.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a blank medical-style folder on a table, a lamp lighting it, a green tab at the edge.
+EFFECT: the folder opens a fraction, light catching the papers.
+ENVIRONMENT & LIGHT: warm pool of light, plum desk, calm.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 tab.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, cold clinical light, blue tint.
+OVERLAY: A HEALTH CONDITION
+NARRATION: It turns a health condition into a secret.
+
+CLIP 5 | 0:24–0:30
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: two identical lamps on two shelves, one lit and one dark, both warm white shades.
+EFFECT: the dark lamp switches on softly, matching the first.
+ENVIRONMENT & LIGHT: warm light, plum shelves, mauve accents.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, harsh flash.
+OVERLAY: WOULD WE HIDE DIABETES
+NARRATION: The light test: would we hide this if it were diabetes?
+
+CLIP 6 | 0:30–0:36
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the lamp fully lit in a warm room, a chair beside it, the window showing evening.
+EFFECT: the light settles and holds, the room even and calm.
+ENVIRONMENT & LIGHT: warm evening light, plum shadows, mauve accent.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, blue tint.
+OVERLAY: YOU CAN TALK ABOUT IT
+NARRATION: You are allowed to talk about it.
+```
 
 **Clips:**
 
@@ -894,6 +2426,78 @@ Educational only — not medical advice or a diagnosis. If you are in crisis, ca
 **Length:** 36s
 **Model:** Veo
 
+**Copy pack:**
+
+```text
+POST 24 — Month One, Month Six, Month Twelve | Veo | 6 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a small plant in a pot on a windowsill, three leaves, warm morning light.
+EFFECT: the plant grows taller in a slow time-lapse, one new leaf unfurling.
+ENVIRONMENT & LIGHT: warm window light, plum sill, mauve accents.
+STYLE & PALETTE: photoreal time-lapse, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 leaf.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, wilting.
+OVERLAY: RECOVERY
+NARRATION: Recovery does not look the same in month one and month twelve.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a wall calendar with blank squares, pages flipping in a fast time-lapse.
+EFFECT: the pages turn over quickly and stop on a month, a single plum tab visible.
+ENVIRONMENT & LIGHT: warm side light, plum wall, mauve accent.
+STYLE & PALETTE: photoreal time-lapse, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, neon.
+OVERLAY: MONTH ONE
+NARRATION: Month one is mostly showing up and learning the routine.
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a notebook open on a desk, blank pages filling with soft plum lines in time-lapse.
+EFFECT: the lines appear across the pages one by one, then the book closes.
+ENVIRONMENT & LIGHT: warm desk light, mauve accents.
+STYLE & PALETTE: photoreal time-lapse, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, readable text, letters, watermark, camera drift, neon.
+OVERLAY: MONTH SIX
+NARRATION: Month six is noticing patterns before they take over.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a window seen from inside, seasons changing in time-lapse, leaves bare then green then bare.
+EFFECT: the light shifts from cold to warm to cold, then settles warm.
+ENVIRONMENT & LIGHT: plum frame, warm interior, seasonal light.
+STYLE & PALETTE: photoreal time-lapse, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, storm, neon.
+OVERLAY: MONTH TWELVE
+NARRATION: Month twelve is often about maintaining, not finishing.
+
+CLIP 5 | 0:24–0:30
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a single winding path of blank stepping stones across a warm white floor.
+EFFECT: the stones shift subtly into a new arrangement, then hold.
+ENVIRONMENT & LIGHT: flat warm light, plum shadows, mauve accents.
+STYLE & PALETTE: minimalist still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, neon, glossy 3D.
+OVERLAY: NO SINGLE TIMELINE
+NARRATION: There is no single timeline. There is yours.
+
+CLIP 6 | 0:30–0:36
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the plant again, now fuller, on the windowsill, warm light steady.
+EFFECT: the newest leaf sways once and holds.
+ENVIRONMENT & LIGHT: warm afternoon light, plum sill, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 leaves.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, wilting.
+OVERLAY: UNEVEN IS ALLOWED
+NARRATION: Progress is allowed to be uneven.
+```
+
 **Clips:**
 
 | # | Time | Dur | Visual | Overlay | Narration |
@@ -931,6 +2535,78 @@ Educational only — not medical advice or a diagnosis. If you are in crisis, ca
 **Hook:** "After an overdose, the next hour matters as much as the last one."
 **Length:** 48s
 **Model:** Veo
+
+**Copy pack:**
+
+```text
+POST 25 — After An Overdose | Veo | 6 clips
+
+CLIP 1 | 0:00–0:08
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a dark room with a single unlit lamp, a phone on the floor beside a rug.
+EFFECT: the phone screen lights the floor faintly, then the lamp clicks on at the edge of frame.
+ENVIRONMENT & LIGHT: low light warming, plum shadows, calm.
+STYLE & PALETTE: photoreal, restrained, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, bodies, faces, hands, drugs, syringes, text, letters, watermark, camera drift, graphic content, blue tint.
+OVERLAY: AFTER AN OVERDOSE
+NARRATION: After an overdose, the next hour matters as much as the last one.
+
+CLIP 2 | 0:08–0:16
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a phone on speaker on a table, a notepad and pen beside it, warm lamp light.
+EFFECT: the phone's speaker light pulses gently; a page edge lifts.
+ENVIRONMENT & LIGHT: warm pool of light, plum shadows, mauve accents.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, drugs, syringes, watermark, camera drift, horror.
+OVERLAY: CALL 911
+NARRATION: If someone is unresponsive, call 911 and give naloxone if you have it.
+
+CLIP 3 | 0:16–0:24
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a folded blanket and a pillow on a sofa, a glass of water on the floor.
+EFFECT: the blanket settles into a steadier fold; the water trembles once.
+ENVIRONMENT & LIGHT: warm low light, plum upholstery, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, bodies, faces, hands, drugs, syringes, text, letters, watermark, camera drift, graphic content.
+OVERLAY: STAY
+NARRATION: Stay with them. Recovery position. Keep them breathing.
+
+CLIP 4 | 0:24–0:32
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: two chairs facing each other in warm light, a small table with a blank card.
+EFFECT: the card lifts and turns face-down, then rests.
+ENVIRONMENT & LIGHT: dawn light through a window, plum shadows.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, drugs, syringes, watermark, camera drift, horror.
+OVERLAY: THE NEXT SUPPORT
+NARRATION: When they are stable, the conversation can start: what support comes next.
+
+CLIP 5 | 0:32–0:40
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a lamp and a mug on a windowsill, dawn light growing outside, a chair beside it.
+EFFECT: the light through the window warms from grey to gold.
+ENVIRONMENT & LIGHT: dawn, warm interior, plum frame.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, drugs, syringes, text, letters, watermark, camera drift, neon, blue tint.
+OVERLAY: SHAME IS NOT TREATMENT
+NARRATION: Shame is not a treatment. Connection is.
+
+CLIP 6 | 0:40–0:48
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: an open door at dawn, warm light on the threshold, a green plant beside it.
+EFFECT: the door eases further open and the light spreads, then holds.
+ENVIRONMENT & LIGHT: warm dawn light, plum frame, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 leaf.
+NEGATIVE: people, faces, hands, drugs, syringes, text, letters, watermark, camera drift, horror, blue tint.
+OVERLAY: HELP IS THE PRIORITY
+NARRATION: Help is the priority. Call 911. Then call us for the next step.
+```
 
 **Clips:**
 
@@ -970,6 +2646,67 @@ Educational only — not medical advice. If you are in crisis, call or text 988.
 **Length:** 30s
 **Model:** Veo
 
+**Copy pack:**
+
+```text
+POST 26 — Telehealth Or In Person | Veo | 5 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: POV of a laptop open on a kitchen table, a mug and a blank notepad beside it.
+EFFECT: the screen glows softly and brightens once, then holds.
+ENVIRONMENT & LIGHT: warm morning light, plum shadows, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, app icons, watermark, camera drift, neon, blue tint.
+OVERLAY: A DIFFERENT ROOM
+NARRATION: Telehealth is not a lesser version of care. It is a different room.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a bus stop sign pole and a rain-slicked pavement outside a window, seen from indoors.
+EFFECT: raindrops run down the glass and still.
+ENVIRONMENT & LIGHT: cool outside, warm inside, plum window frame.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, text, letters, watermark, camera drift, storm, neon.
+OVERLAY: IF TRAVEL IS THE BARRIER
+NARRATION: Choose telehealth if travel, schedule, or privacy is the barrier.
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: two armchairs in a warm office, a side table with a lamp, a window.
+EFFECT: the lamp warms one step and the curtain settles.
+ENVIRONMENT & LIGHT: natural warm light, plum shadows, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, clinical coldness, blue tint.
+OVERLAY: IF A ROOM HELPS YOU FOCUS
+NARRATION: Choose in person if a room and a routine help you focus.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a phone propped against a book on a table, a laptop closed beside it, a green sticky tab.
+EFFECT: the phone tilts a degree and settles, the tab lifting.
+ENVIRONMENT & LIGHT: warm light, plum table, mauve accents.
+STYLE & PALETTE: photoreal still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 tab.
+NEGATIVE: people, faces, hands, text, letters, app icons, watermark, camera drift, neon.
+OVERLAY: YOU CAN SWITCH
+NARRATION: You can switch. It is not a commitment.
+
+CLIP 5 | 0:24–0:30
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a doorstep at dusk, a warm light inside, a plant by the door.
+EFFECT: the door opens a hand's width and the light spills out, then holds.
+ENVIRONMENT & LIGHT: warm interior, cool dusk, plum frame.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 leaf.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, horror, blue tint.
+OVERLAY: ASK WHAT YOUR PLAN COVERS
+NARRATION: Ask what your plan covers before you decide.
+```
+
 **Clips:**
 
 | # | Time | Dur | Visual | Overlay | Narration |
@@ -1006,6 +2743,78 @@ Educational only — not medical advice. If you are in crisis, call or text 988.
 **Hook:** "Substance use disorder is not a character flaw. It is a health condition."
 **Length:** 36s
 **Model:** Veo
+
+**Copy pack:**
+
+```text
+POST 27 — Why Substance Use Is A Health Condition | Veo | 6 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a paper balance scale on a warm white table, a large blank weight on one pan.
+EFFECT: the scale tips hard to one side, then a second weight settles and it levels.
+ENVIRONMENT & LIGHT: flat warm light, plum shadows, mauve accents.
+STYLE & PALETTE: minimalist paper still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, drugs, syringes, watermark, camera drift, neon, glossy 3D.
+OVERLAY: NOT A FLAW
+NARRATION: Substance use disorder is not a character flaw. It is a health condition.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a paper model of a brain built from layered sheets, seen side-on, warm light behind.
+EFFECT: the layers shift and settle into alignment, edges glowing.
+ENVIRONMENT & LIGHT: warm backlight, plum shadows, mauve accents.
+STYLE & PALETTE: paper sculpture still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, anatomical gore, drugs, watermark, camera drift, neon, glossy 3D.
+OVERLAY: IT CHANGES THE BRAIN
+NARRATION: It changes the brain's reward system, not a person's worth.
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: three blank folders in a stepped arrangement, a small lamp beside the tallest.
+EFFECT: the folders slide into a straighter line and hold.
+ENVIRONMENT & LIGHT: warm desk light, plum shadows, mauve accents.
+STYLE & PALETTE: minimalist still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, neon, glossy 3D.
+OVERLAY: ASSESS · PLAN · FOLLOW-UP
+NARRATION: That is why treatment looks like health care: assessment, plan, follow-up.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: two identical blank boxes, one labelled by a green tab, the other by a plum tab.
+EFFECT: both boxes open their lids in unison, then close.
+ENVIRONMENT & LIGHT: flat warm light, mauve shadow, paper texture.
+STYLE & PALETTE: minimalist still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 tab.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, glossy 3D.
+OVERLAY: WILLPOWER IS NOT A PLAN
+NARRATION: Willpower alone is not a plan, the same way it is not a plan for diabetes.
+
+CLIP 5 | 0:24–0:30
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a large paper weight and a small paper weight on the same scale, perfectly balanced.
+EFFECT: the scale holds level as the light warms.
+ENVIRONMENT & LIGHT: warm light, plum shadows, calm.
+STYLE & PALETTE: minimalist paper still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, neon, glossy 3D.
+OVERLAY: ACCURACY, NOT LENIENCY
+NARRATION: Treating it as a health condition is not leniency. It is accuracy.
+
+CLIP 6 | 0:30–0:36
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a small green plant on the table beside the scale, morning light.
+EFFECT: a new leaf unfurls slowly, then holds.
+ENVIRONMENT & LIGHT: warm morning light, plum shadows, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 leaves.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, wilting.
+OVERLAY: PEOPLE RECOVER
+NARRATION: People recover. Care helps.
+```
 
 **Clips:**
 
@@ -1045,6 +2854,78 @@ Educational only — not medical advice or a diagnosis. If you are in crisis, ca
 **Length:** 48s
 **Model:** Veo
 
+**Copy pack:**
+
+```text
+POST 28 — Group Is Not A Circle Of Strangers Judging You | Veo | 6 clips
+
+CLIP 1 | 0:00–0:08
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a circle of empty chairs in a warm room, a mirror on one wall reflecting the circle.
+EFFECT: the reflection shows one extra chair that is not in the room, then matches.
+ENVIRONMENT & LIGHT: warm afternoon light, plum chairs, mauve accents.
+STYLE & PALETTE: photoreal mirror still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, silhouettes, text, letters, watermark, camera drift, horror, cracked glass.
+OVERLAY: GROUP
+NARRATION: Group therapy is not a room of strangers judging you.
+
+CLIP 2 | 0:08–0:16
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the empty chairs from a low angle, a rug under them, a plant at the edge.
+EFFECT: the plant sways once; dust drifts through the light.
+ENVIRONMENT & LIGHT: warm natural light, plum shadows, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, clinical coldness, blue tint.
+OVERLAY: SAME SKILL, DIFFERENT SPEEDS
+NARRATION: It is a room of people working on the same skill at different speeds.
+
+CLIP 3 | 0:16–0:24
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a single chair pulled slightly back from the circle, a mug on the floor beside it.
+EFFECT: the chair eases half a step forward toward the circle and holds.
+ENVIRONMENT & LIGHT: warm light, plum chair, mauve rug.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, horror, blue tint.
+OVERLAY: YOU CAN LISTEN FIRST
+NARRATION: You can listen before you speak.
+
+CLIP 4 | 0:24–0:32
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a closed door to the room, a small blank sign holder beside it, a coat on a hook.
+EFFECT: the door stays closed; the coat sways once; the light under the door steadies.
+ENVIRONMENT & LIGHT: warm hallway light, plum door, mauve accents.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, horror, blue tint.
+OVERLAY: WHAT IS SAID STAYS
+NARRATION: What is said in the room stays in the room.
+
+CLIP 5 | 0:32–0:40
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the mirror again, reflecting the circle of chairs perfectly, warm light filling the glass.
+EFFECT: the reflection brightens a shade and holds, every chair aligned.
+ENVIRONMENT & LIGHT: warm light, plum frame, calm.
+STYLE & PALETTE: photoreal mirror still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, silhouettes, text, letters, watermark, camera drift, cracked glass, horror.
+OVERLAY: YOUR STORY, MIRRORED
+NARRATION: Hearing your own story in someone else is often the moment it shifts.
+
+CLIP 6 | 0:40–0:48
+DURATION: 8s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: one chair in the circle with a green blanket folded on it, light pooling.
+EFFECT: the light on the blanket warms and holds; a mote of dust settles.
+ENVIRONMENT & LIGHT: warm afternoon light, plum shadows, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 blanket.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, neon, blue tint.
+OVERLAY: NOT THE ONLY ONE
+NARRATION: You are not the only one in the room with this.
+```
+
 **Clips:**
 
 | # | Time | Dur | Visual | Overlay | Narration |
@@ -1083,6 +2964,67 @@ Educational only — not medical advice or a diagnosis. If you are in crisis, ca
 **Length:** 30s
 **Model:** Veo
 
+**Copy pack:**
+
+```text
+POST 29 — One Question Before You Start | Veo | 5 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: one blank card standing upright in a warm white field, a soft plum shadow behind it.
+EFFECT: the card rotates a few degrees to face the viewer and holds.
+ENVIRONMENT & LIGHT: flat warm light, mauve accent line, paper grain.
+STYLE & PALETTE: minimalist typographic still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: letters, words, numbers, text, people, hands, watermark, camera drift, neon, glossy 3D.
+OVERLAY: ONE QUESTION
+NARRATION: Before you start with any provider, ask one question.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: the same card, now with a blank paper arrow pointing toward three blank squares in a row.
+EFFECT: the arrow slides from the card to the squares one by one.
+ENVIRONMENT & LIGHT: flat warm light, plum shadows, mauve accents.
+STYLE & PALETTE: minimalist graphic still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: letters, words, numbers, text, people, hands, watermark, camera drift, neon, glossy 3D.
+OVERLAY: WHAT DOES PROGRESS LOOK LIKE
+NARRATION: What does progress look like for me, and how will we know?
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: three blank cards in a row, each slightly different: a clock, a bed, a step shape.
+EFFECT: the cards lift in sequence and settle into a straight line.
+ENVIRONMENT & LIGHT: warm side light, plum shadows, mauve accents.
+STYLE & PALETTE: minimalist still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: letters, words, numbers, text, people, hands, watermark, camera drift, neon, glossy 3D.
+OVERLAY: SPECIFIC
+NARRATION: A good answer is specific: sleep, routine, a goal you named.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a blank blurred card behind a sharp blank card, both in warm white and plum.
+EFFECT: focus shifts from the front card to the back, then returns.
+ENVIRONMENT & LIGHT: flat warm light, mauve shadow, paper texture.
+STYLE & PALETTE: minimalist still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: letters, words, numbers, text, people, hands, watermark, camera drift, neon, glossy 3D.
+OVERLAY: VAGUE IS INFORMATION TOO
+NARRATION: A vague answer is information too.
+
+CLIP 5 | 0:24–0:30
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a phone on a warm white table beside the blank card, a green tab on the card edge.
+EFFECT: the phone screen glows once; the card lifts a millimetre and rests.
+ENVIRONMENT & LIGHT: warm overhead light, plum shadows, calm.
+STYLE & PALETTE: minimalist still-life, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 tab.
+NEGATIVE: letters, words, numbers, app icons, text, people, hands, watermark, camera drift, neon.
+OVERLAY: INTERVIEW YOUR CARE
+NARRATION: You are allowed to interview your care.
+```
+
 **Clips:**
 
 | # | Time | Dur | Visual | Overlay | Narration |
@@ -1119,6 +3061,56 @@ Educational only — not medical advice. If you are in crisis, call or text 988.
 **Hook:** "Twenty seconds. Breathe out longer than you breathe in."
 **Length:** 24s
 **Model:** Veo
+
+**Copy pack:**
+
+```text
+POST 30 — Twenty Seconds To Land | Veo | 4 clips
+
+CLIP 1 | 0:00–0:06
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: warm window light falling across a blank wall, dust motes drifting slowly.
+EFFECT: the light widens a fraction as a cloud passes, then softens.
+ENVIRONMENT & LIGHT: quiet warm room, plum shadow at the frame edge.
+STYLE & PALETTE: photoreal, calm, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, rapid motion, neon, blue tint.
+OVERLAY: 20 SECONDS
+NARRATION: Twenty seconds. Breathe out longer than you breathe in.
+
+CLIP 2 | 0:06–0:12
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a small green plant on a sill, a leaf catching the light, a window beyond.
+EFFECT: the leaf sways gently once and holds.
+ENVIRONMENT & LIGHT: soft natural light, plum sill, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 leaf.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, rapid motion, neon.
+OVERLAY: 3 THINGS YOU SEE
+NARRATION: Name three things you can see.
+
+CLIP 3 | 0:12–0:18
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a ticking wall clock, a curtain shifting, a mug on a table.
+EFFECT: the clock ticks; the curtain breathes once; the mug's surface trembles slightly.
+ENVIRONMENT & LIGHT: warm afternoon light, plum shadows, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C.
+NEGATIVE: people, faces, hands, text, letters, numbers, watermark, camera drift, rapid motion, neon.
+OVERLAY: 2 THINGS YOU HEAR
+NARRATION: Name two things you can hear.
+
+CLIP 4 | 0:18–0:24
+DURATION: 6s
+CAMERA: 9:16 vertical, locked camera, no zoom pan tilt or rotation.
+SUBJECT: a folded blanket on a chair, the fabric texture close, warm light across it.
+EFFECT: the fabric fibres lift slightly and settle, the light holding steady.
+ENVIRONMENT & LIGHT: warm pool of light, plum shadow, calm.
+STYLE & PALETTE: photoreal, palette warm white #FFFFF6, deep plum #360C42, mauve #816E7C, green #1FDF67 thread.
+NEGATIVE: people, faces, hands, text, letters, watermark, camera drift, rapid motion, neon.
+OVERLAY: 1 THING YOU FEEL
+NARRATION: Name one thing you can feel. That is the whole exercise.
+```
 
 **Clips:**
 
