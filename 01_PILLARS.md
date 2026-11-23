@@ -59,37 +59,38 @@ Medicaid, referrals and "what to bring" — the searches local competitors ignor
 | # | Topic | Pillar | Category | Status |
 |---|---|---|---|---|
 | 1 | What the first sixty minutes actually look like | What Treatment Actually Looks Like | 09 Camera | scripted |
-| 2 | What PRP is, and why it happens in your home | What Treatment Actually Looks Like | 07 Impossible Objects | queued |
-| 3 | What IOP and PHP mean in plain English | What Treatment Actually Looks Like | 02 Scale | queued |
-| 4 | What a psychiatric evaluation is not | What Treatment Actually Looks Like | 10 Emotion | queued |
-| 5 | How medication management actually works (the monthly check-in) | What Treatment Actually Looks Like | 03 Time | queued |
-| 6 | What "medication changed who I am" gets wrong | Myths & Reality | 06 Mirror | queued |
-| 7 | "Therapy is for people with serious problems" | Myths & Reality | 10 Emotion | queued |
-| 8 | "You can just pray it away" | Myths & Reality | 11 Light & Color | queued |
-| 9 | Why "just be positive" fails | Myths & Reality | 04 Glitch | queued |
-| 10 | What stigma costs a family | Myths & Reality | 05 Material | queued |
-| 11 | Five things worth talking about (not "signs you have…") | For Families & Caregivers | 12 Typography | queued |
-| 12 | How to talk to your teen about therapy | For Families & Caregivers | 09 Camera | queued |
-| 13 | What to say when a friend says "I'm fine" | For Families & Caregivers | 10 Emotion | queued |
+| 2 | What PRP is, and why it happens in your home | What Treatment Actually Looks Like | 07 Impossible Objects | scripted |
+| 3 | What IOP and PHP mean in plain English | What Treatment Actually Looks Like | 02 Scale | scripted |
+| 4 | What a psychiatric evaluation is not | What Treatment Actually Looks Like | 10 Emotion | scripted |
+| 5 | How medication management actually works (the monthly check-in) | What Treatment Actually Looks Like | 03 Time | scripted |
+| 6 | What "medication changed who I am" gets wrong | Myths & Reality | 06 Mirror | scripted |
+| 7 | "Therapy is for people with serious problems" | Myths & Reality | 10 Emotion | scripted |
+| 8 | "You can just pray it away" | Myths & Reality | 11 Light & Color | scripted |
+| 9 | Why "just be positive" fails | Myths & Reality | 04 Glitch | scripted |
+| 10 | What stigma costs a family | Myths & Reality | 05 Material | scripted |
+| 11 | Five things worth talking about (not "signs you have…") | For Families & Caregivers | 12 Typography | scripted |
+| 12 | How to talk to your teen about therapy | For Families & Caregivers | 09 Camera | scripted |
+| 13 | What to say when a friend says "I'm fine" | For Families & Caregivers | 10 Emotion | scripted |
 | 14 | The chair that stays empty | For Families & Caregivers | 05 Material | scripted |
-| 15 | Setting a boundary without abandoning someone | For Families & Caregivers | 06 Mirror | queued |
-| 16 | How to help after an overdose (Narcan basics, no methods) | For Families & Caregivers | 11 Light & Color | queued |
+| 15 | Setting a boundary without abandoning someone | For Families & Caregivers | 06 Mirror | scripted |
+| 16 | How to help after an overdose (Narcan basics, no methods) | For Families & Caregivers | 11 Light & Color | scripted |
 | 17 | Does Maryland Medicaid cover this? | Getting In The Door | 12 Typography | scripted |
-| 18 | What to bring to your first appointment | Getting In The Door | 05 Material | queued |
-| 19 | How a referral works (school, doctor, court) | Getting In The Door | 07 Impossible Objects | queued |
-| 20 | Telehealth or in person — how to choose | Getting In The Door | 09 Camera | queued |
-| 21 | What happens after you call 833-888-0805 | Getting In The Door | 03 Time | queued |
-| 22 | Why the intake paperwork exists | Getting In The Door | 05 Material | queued |
+| 18 | What to bring to your first appointment | Getting In The Door | 05 Material | scripted |
+| 19 | How a referral works (school, doctor, court) | Getting In The Door | 07 Impossible Objects | scripted |
+| 20 | Telehealth or in person — how to choose | Getting In The Door | 09 Camera | scripted |
+| 21 | What happens after you call 833-888-0805 | Getting In The Door | 03 Time | scripted |
+| 22 | Why the intake paperwork exists | Getting In The Door | 05 Material | scripted |
 | 23 | What to do while you wait for an opening | Getting In The Door | 03 Time | queued |
 | 24 | Can you come back after stopping treatment? | Getting In The Door | 07 Impossible Objects | queued |
-| 25 | Meet the people who answer the phone | The People & Place | 09 Camera | queued |
+| 25 | Meet the people who answer the phone | The People & Place | 09 Camera | scripted |
 | 26 | What CARF accreditation means for you | The People & Place | 12 Typography | queued |
-| 27 | A twenty-second grounding exercise (Calming Room) | The People & Place | 11 Light & Color | queued |
-| 28 | Why our clinicians stay (careers) | The People & Place | 10 Emotion | queued |
-| 29 | What "trauma-informed" actually means here | What Treatment Actually Looks Like | 10 Emotion | queued |
-| 30 | Why substance use is treated like any other health condition | Myths & Reality | 02 Scale | queued |
-| 31 | What recovery looks like at month one, six, twelve (no outcome promises) | What Treatment Actually Looks Like | 03 Time | queued |
-| 32 | The one question to ask any provider before you start | Getting In The Door | 12 Typography | queued |
+| 33 | What group therapy actually feels like | What Treatment Actually Looks Like | 06 Mirror | scripted |
+| 27 | A twenty-second grounding exercise (Calming Room) | The People & Place | 11 Light & Color | scripted |
+| 28 | Why our clinicians stay (careers) | The People & Place | 10 Emotion | scripted |
+| 29 | What "trauma-informed" actually means here | What Treatment Actually Looks Like | 10 Emotion | scripted |
+| 30 | Why substance use is treated like any other health condition | Myths & Reality | 02 Scale | scripted |
+| 31 | What recovery looks like at month one, six, twelve (no outcome promises) | What Treatment Actually Looks Like | 03 Time | scripted |
+| 32 | The one question to ask any provider before you start | Getting In The Door | 12 Typography | scripted |
 
 **Status values:** `queued` → `scripted` → `rendered` → `published`
 
